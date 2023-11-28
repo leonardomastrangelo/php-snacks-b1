@@ -1,0 +1,18 @@
+:root {
+--rich-black: #03071eff;
+--chocolate-cosmos: #370617ff;
+--rosewood: #6a040fff;
+--penn-red: #9d0208ff;
+--engineering-orange: #d00000ff;
+--sinopia: #dc2f02ff;
+--persimmon: #e85d04ff;
+--princeton-orange: #f48c06ff;
+--orange-web: #faa307ff;
+--selective-yellow: #ffba08ff;
+}
+#snack1 {
+    background-color: var(--selective-yellow);
+}
+#snack1 .snack1-col {
+    background-color: var(--persimmon);
+}
