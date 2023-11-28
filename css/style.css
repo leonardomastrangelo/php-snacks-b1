@@ -16,3 +16,7 @@
 #snack1 .snack1-col {
     background-color: var(--persimmon);
 }
+
+#snack2 {
+    background-color: var(--rich-black);
+}
