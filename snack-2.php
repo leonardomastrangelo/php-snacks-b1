@@ -58,6 +58,7 @@ if (isset($_GET["name"]) && isset($_GET["email"]) && isset($_GET["age"])) {
     </div>
     <div class="text-center py-5">
         <a class="btn btn-success" href="index.php">Snack 1</a>
+        <a class="btn btn-success" href="bonus.php">Snack Bonus</a>
     </div>
 
 

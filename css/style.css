@@ -16,6 +16,9 @@
 #snack1 .snack1-col {
     background-color: var(--persimmon);
 }
+#bonus .bonus-col {
+    background-color: var(--orange-web);
+}
 
 #snack2 {
     background-color: var(--rich-black);
