@@ -36,6 +36,10 @@ $sub_text = explode(".", $text);
             <?php } ?>
         </div>
     </main>
+    <div class="text-center py-5">
+        <a class="btn btn-success" href="index.php">Snack 1</a>
+        <a class="btn btn-success" href="snack-2.php">Snack 2</a>
+    </div>
 
 </body>
 

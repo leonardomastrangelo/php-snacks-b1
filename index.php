@@ -77,6 +77,8 @@ $matches = [
         </div>
         <div class="text-center py-4">
             <a class="btn btn-success" href="snack-2.php">Snack 2</a>
+            <a class="btn btn-success" href="bonus.php">Snack Bonus</a>
+
         </div>
     </main>
 
